@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+[Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 <!--
