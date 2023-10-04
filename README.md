@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hola soy Franco 👋
 
 
-[Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+[Static Badge](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=orange)
+[Static Badge](https://img.shields.io/badge/Html-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=orange)
+
 
 
 <!--
