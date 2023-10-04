@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-[Java](https://img.shields.io/badge/Java-<200,0,0>.svg?style=for-the-badge&logo=<javascript>&logoColor=<100.0.0>)
+![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 <!--
 **eelColo/eelColo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
