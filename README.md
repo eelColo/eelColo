@@ -1,7 +1,6 @@
 ### Hola soy Franco 👋
 
 
-### Hola soy Franco 👋
 
 ------------
 
