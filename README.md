@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hola soy Franco</h1>
-<h3 align="center">Desarrollador FullStack Java</h3>
+<h3 align="center">Java Developer</h3>
 
-- 🔭 Estoy trabajando actualmente en **Todolist**
+- 🔭 Estoy trabajando actualmente en un **Carrito de Compras**
 
 - 🌱 Actualmente estoy aprendiendo **Spring and React**
 
