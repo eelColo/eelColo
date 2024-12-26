@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente desarrollando Gestor de Turnos medicos (https://github.com/OverAll-FundacionPescar/OverAll-FrontEnd)
 
-- 🌱 Actualmente estoy aprendiendo **Node.js Python React**
+- 🌱 Actualmente estoy aprendiendo **Angular and Python**
 
 - 📫 Contacto **francolens2002@gmail.com**
 
