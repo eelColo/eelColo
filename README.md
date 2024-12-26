@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eelcolo&label=Profile%20views&color=0e75b6&style=flat" alt="eelcolo" /> </p>
 
-- 🔭 Actualmente desarrollando [OverAll](https://github.com/OverAll-FundacionPescar/OverAll-FrontEnd)
+- 🔭 Actualmente desarrollando Gestor de Turnos medicos (https://github.com/OverAll-FundacionPescar/OverAll-FrontEnd)
 
 - 🌱 Actualmente estoy aprendiendo **Node.js Python React**
 
